@@ -24,8 +24,8 @@
  * Documentation: http://uavcan.org/Implementations/Libcanard
  */
 
-#ifndef CANARD_H
-#define CANARD_H
+#ifndef DRONECAN_CANARD_H
+#define DRONECAN_CANARD_H
 
 #include <stdint.h>
 #include <stddef.h>
